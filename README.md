@@ -12,7 +12,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,python,react,nodejs,npm,express,bootstrap,postgres,mysql,figma,git,github,postman,pandas,matplotlib,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,html,css,python,react,nodejs,npm,express,bootstrap,mysql,git,github,postman" />
 </p>
 
 ---
